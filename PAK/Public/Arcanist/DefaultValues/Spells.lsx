@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="58"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_ChillTouch;Projectile_FireBolt;Target_Light;Target_MageHand;Projectile_RayOfFrost;Target_ShockingGrasp;Shout_DisguiseSelf;Shout_FeatherFall;Target_FindFamiliar;Target_FogCloud;Target_Grease;Target_Jump;Target_Longstrider;Projectile_MagicMissile;Target_MageArmor;Target_Sleep;Zone_Thunderwave;Projectile_WitchBolt"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
+                    <attribute id="UUID" type="guid" value="fd0b72d5-35dc-4262-8c1d-120b07c52a91"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

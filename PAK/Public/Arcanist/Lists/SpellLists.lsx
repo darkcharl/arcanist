@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList"> Force Blast 1
+                    <attribute id="Spells" type="LSString" value="Projectile_ArcaneBolt"/>
+                    <attribute id="UUID" type="guid" value="80a856f6-228f-41c2-a329-d76fce55ecd9"/>
+                </node>
+                <node id="SpellList"> Force Blast 2
+                    <attribute id="Spells" type="LSString" value="Projectile_ArcaneBolt_2"/>
+                    <attribute id="UUID" type="guid" value="80a856f6-228f-41c2-a329-d76fce55ecda"/>
+                </node>
+                <node id="SpellList"> Force Blast 3
+                    <attribute id="Spells" type="LSString" value="Projectile_ArcaneBolt_3"/>
+                    <attribute id="UUID" type="guid" value="80a856f6-228f-41c2-a329-d76fce55ecdb"/>
+                </node>
+                <node id="SpellList"> Force Blast 4
+                    <attribute id="Spells" type="LSString" value="Projectile_ArcaneBolt_4"/>
+                    <attribute id="UUID" type="guid" value="80a856f6-228f-41c2-a329-d76fce55ecdc"/>
+                </node>
+                <node id="SpellList"> Level 3 Spells
+                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Projectile_AcidArrow;Target_Blindness;Shout_Blur;Target_Darkness;Target_Darkvision;Shout_DetectThoughts;Shout_FlameBlade;Target_FlamingSphere;Target_HeatMetal;Target_HoldPerson;Target_Invisibility;Shout_MirrorImage;Target_MistyStep;Target_ProtectionFromPoison;Projectile_RayOfEnfeeblement;Projectile_ScorchingRay;Target_Shatter;Target_Web;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Zone_BurningHands;Target_CharmPerson;Zone_ColorSpray;Target_CreateDestroyWater;Shout_DisguiseSelf;Target_Entangle;Shout_ExpeditiousRetreat;Target_FaerieFire;Shout_FalseLife;Shout_FeatherFall;Target_FindFamiliar;Target_FogCloud;Target_Grease;Shout_HellishRebuke;Target_Hex;Target_Jump;Target_Longstrider;Target_MageArmor;Projectile_MagicMissile;Target_ProtectionFromEvilAndGood;Projectile_RayOfSickness;Shout_SpeakWithAnimals;Target_Sleep;Zone_Thunderwave;Projectile_WitchBolt"/>
+                    <attribute id="UUID" type="guid" value="b3b2ce0a-4b9c-4a11-a078-0f7806a4eaaf"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
