@@ -1,14 +1,8 @@
 <contentList date="7/18/2021 18:00">
     <content contentuid="d45e0ed0-359f-4637-9668-449b48b3c40f" version="1">Arcanist</content>
     <content contentuid="edfd2ae9-d858-4c55-b87b-902d5e0c6da4" version="1">Arcanists are wizards born with an innate ability to manipulate magic, using their unique insight into the workings of magic to apply both approaches at once.</content>
-    <content contentuid="39703536-bf7f-467d-9c51-28e7e7ce4a10" version="1">Arcane Bolt I</content>
-    <content contentuid="be615c5e-1ef3-4eb5-97c7-824277577ca1" version="1">Provides a class specific cantrip that allows the caster to cast a single bolt of force that also drains life.</content>
-    <content contentuid="ce845e86-56b6-419f-a132-f5a8e07151e2" version="1">Arcane Bolt II</content>
-    <content contentuid="5b9a8bfa-7830-46c2-b906-f8b3b182cd1e" version="1">Provides a class specific cantrip that allows the caster to cast two bolts of force that also drain life.</content>
-    <content contentuid="5c51176a-7a53-4909-8a25-573630cd42a9" version="1">Arcane Bolt III</content>
-    <content contentuid="d33148e5-42f1-43ce-831b-1635612a211a" version="1">Provides a class specific cantrip that allows the caster to cast three bolts of force that also drain life.</content>
-    <content contentuid="347cb964-4c4d-488a-8c4a-6b2d2754fef5" version="1">Arcane Bolt IV</content>
-    <content contentuid="5035e1fd-f161-46a9-a8b2-8003bca06d56" version="1">Provides a class specific cantrip that allows the caster to cast four bolts of force that also drain life.</content>
+    <content contentuid="39703536-bf7f-467d-9c51-28e7e7ce4a10" version="1">Arcane Bolt</content>
+    <content contentuid="be615c5e-1ef3-4eb5-97c7-824277577ca1" version="1">Bolt of force that drains life and pushes its target back.</content>
     <content contentuid="53cdb4dd-f50d-46e2-ad4b-da85ea0645ff" version="1">Ritual Caster</content>
     <content contentuid="3ae55d4c-a794-4bcd-b93c-c0676cd77141" version="1">Ritual casting allows the caster to invoke certain spells without expanding a spell slot.</content>
 </contentList>
