@@ -41,7 +41,7 @@
                     <attribute id="UUID" type="guid" value="9e71bb9c-e99b-40d4-a983-959620be8b7e"/>
                 </node>
                 <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Target_CloudOfDaggers;Target_FlamingSphere;Target_HoldPerson;Projectile_ScorchingRay;Target_MistyStep;Shout_MirrorImage"/>
+                    <attribute id="Add" type="LSString" value="Target_Light;Target_ChillTouch;Projectile_RayOfFrost;Target_MinorIllusion;Target_ShockingGrasp;Target_MageHand;Projectile_FireBolt;Target_CloudOfDaggers;Target_FlamingSphere;Target_HoldPerson;Projectile_ScorchingRay;Target_MistyStep;Shout_MirrorImage"/>
                     <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="Level" type="int32" value="4"/>
                     <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
