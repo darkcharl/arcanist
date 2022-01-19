@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Target_ChillTouch;Projectile_FireBolt;Target_Light;Target_MageHand;Projectile_RayOfFrost;Target_ShockingGrasp;Shout_DisguiseSelf;Shout_FeatherFall;Target_FindFamiliar;Target_FogCloud;Target_Grease;Target_Jump;Target_Longstrider;Projectile_MagicMissile;Target_MageArmor;Target_Sleep;Zone_Thunderwave;Projectile_WitchBolt"/>
+                    <attribute id="Add" type="LSString" value="Target_Light;Target_ChillTouch;Projectile_RayOfFrost;Target_MinorIllusion;Target_ShockingGrasp;Target_MageHand;Projectile_FireBolt;Projectile_ChromaticOrb;Target_MageArmor;Target_Sleep;Projectile_MagicMissile;Target_FogCloud;Zone_ThunderWave"/>
                     <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
@@ -15,6 +15,66 @@
                     <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
                     <attribute id="UUID" type="guid" value="fd0b72d5-35dc-4262-8c1d-120b07c52a91"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Projectile_ChromaticOrb;Target_MageArmor;Target_Sleep;Projectile_MagicMissile;Target_FogCloud;Zone_ThunderWave"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="2"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
+                    <attribute id="UUID" type="guid" value="5c357db7-387b-4674-b21e-27dff2a9915c"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_CloudOfDaggers;Target_FlamingSphere;Target_HoldPerson;Projectile_ScorchingRay;Target_MistyStep;Shout_MirrorImage"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="3"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
+                    <attribute id="UUID" type="guid" value="9e71bb9c-e99b-40d4-a983-959620be8b7e"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_CloudOfDaggers;Target_FlamingSphere;Target_HoldPerson;Projectile_ScorchingRay;Target_MistyStep;Shout_MirrorImage"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="4"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
+                    <attribute id="UUID" type="guid" value="647eccc1-031f-4df5-b281-120ee7671e99"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_CloudOfDaggers;Target_FlamingSphere;Target_HoldPerson;Projectile_ScorchingRay;Target_MistyStep;Shout_MirrorImage"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="5"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
+                    <attribute id="UUID" type="guid" value="5040fb8f-fafd-4d94-b639-15af51b9bfd6"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_CloudOfDaggers;Target_FlamingSphere;Target_HoldPerson;Projectile_ScorchingRay;Target_MistyStep;Shout_MirrorImage"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="6"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Replace" type="LSString" value=""/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
+                    <attribute id="UUID" type="guid" value="fbf8d397-33fb-41c3-be6b-d089f973a3a5"/>
                 </node>
             </children>
         </node>
