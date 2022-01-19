@@ -27,6 +27,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c"/>
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="18266c0b-efbc-4c80-8784-ada4a37218d7"/>
+                        </node>
                     </children>
                 </node>
             </children>
