@@ -15,7 +15,7 @@
                     <attribute id="HasGod" type="bool" value="false"/>
                     <attribute id="HpPerLevel" type="int32" value="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Arcanist"/>
                     <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
