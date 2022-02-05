@@ -5,34 +5,6 @@
 		<node id="root">
 			<children>
 				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="FixedString" value="Passive_ArcaneBolt_1_Description" />
-					<attribute id="Speaker" type="FixedString" value="" />
-					<attribute id="ExtraData" type="LSString" value="" />
-					<attribute id="Content" type="TranslatedString" handle="be615c5e-1ef3-4eb5-97c7-824277577ca1" version="7" />
-					<attribute id="Stub" type="bool" value="True" />
-				</node>
-				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="FixedString" value="Passive_ArcaneBolt_2_Description" />
-					<attribute id="Speaker" type="FixedString" value="" />
-					<attribute id="ExtraData" type="LSString" value="" />
-					<attribute id="Content" type="TranslatedString" handle="5b9a8bfa-7830-46c2-b906-f8b3b182cd1e" version="7" />
-					<attribute id="Stub" type="bool" value="True" />
-				</node>
-				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="FixedString" value="Passive_ArcaneBolt_3_Description" />
-					<attribute id="Speaker" type="FixedString" value="" />
-					<attribute id="ExtraData" type="LSString" value="" />
-					<attribute id="Content" type="TranslatedString" handle="d33148e5-42f1-43ce-831b-1635612a211a" version="7" />
-					<attribute id="Stub" type="bool" value="True" />
-				</node>
-				<node id="TranslatedStringKey">
-					<attribute id="UUID" type="FixedString" value="Passive_ArcaneBolt_4_Description" />
-					<attribute id="Speaker" type="FixedString" value="" />
-					<attribute id="ExtraData" type="LSString" value="" />
-					<attribute id="Content" type="TranslatedString" handle="5035e1fd-f161-46a9-a8b2-8003bca06d56" version="7" />
-					<attribute id="Stub" type="bool" value="True" />
-				</node>
-				<node id="TranslatedStringKey">
 					<attribute id="UUID" type="FixedString" value="Passive_RitualCaster_Description" />
 					<attribute id="Speaker" type="FixedString" value="" />
 					<attribute id="ExtraData" type="LSString" value="" />
