@@ -1,8 +1,6 @@
 <contentList date="7/18/2021 18:00">
     <content contentuid="d45e0ed0-359f-4637-9668-449b48b3c40f" version="1">Arcanist</content>
     <content contentuid="edfd2ae9-d858-4c55-b87b-902d5e0c6da4" version="1">Arcanists are wizards born with an innate ability to manipulate magic, using their unique insight into the workings of magic to apply both approaches at once.</content>
-    <content contentuid="39703536-bf7f-467d-9c51-28e7e7ce4a10" version="1">Arcane Bolt</content>
-    <content contentuid="be615c5e-1ef3-4eb5-97c7-824277577ca1" version="1">Bolt of force that drains life and pushes its target back.</content>
-    <content contentuid="53cdb4dd-f50d-46e2-ad4b-da85ea0645ff" version="1">Ritual Caster</content>
-    <content contentuid="3ae55d4c-a794-4bcd-b93c-c0676cd77141" version="1">Ritual casting allows the caster to invoke certain spells without expanding a spell slot.</content>
+    <content contentuid="53cdb4dd-f50d-46e2-ad4b-da85ea0645ff" version="1">Ritual Casting</content>
+    <content contentuid="3ae55d4c-a794-4bcd-b93c-c0676cd77141" version="1">Ritual casting allows the caster to invoke certain spells without expanding a spell slot. Currently only Find Familiar is supported.</content>
 </contentList>
