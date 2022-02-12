@@ -16,10 +16,20 @@ Arcanists manipulate magic differently than base class Wizards. They can turn So
 
 Compared to Sorcerers Arcanists don't have access to feats that make Draconic or Wild Sorcerers appealing, such as Draconic Resilience or Tides of Chaos. Their spell casting ability is Intelligence and thus are unlikely to excel in Charisma based skills, unlike Sorcerers. 
 
+## Raw Magic
+As Arcanists grow more experienced, they learn how to surface magic in ways that other Wizards cannot. Using shortcuts, they may power their spells directly with Raw Magic that is circulating in their blood. Developing Raw Spells takes time and dedication, most Arcanists only master a handful of these.
+
+### Mechanics
+Raw magic enables Arcanists to cast Raw Spells using the number of Sorcery Points that would be required to create a Spell Slot of the equivalent Raw Spell Level, plus one. For example, to cast the Raw variant of the  Level 2 Spell "Misty Step" 3+1, that is, 4 Sorcery Points are required. Arcanists don't have to memorize Raw Spells individually and each spell will be cast quickly, as a Bonus Action.
+
+Unfortunately, using Raw Magic has its drawbacks. Arcanists must make a Constitution Saving Throw or they suffer 1d4 necrotic damage for each Sorcery Point spent on invoking the desired Raw Spell.
+
 # Modding Info
 
 ## Balance
 This class is a powerful class that may upset the balance of the game. Keep in mind that abundant access to scrolls, gold and time can negate some of the disadvantages implemented for this class.
+
+Also, while Raw Magic adds flavor to this class, it can upset the game balance severely as it may change Action Economy.
 
 ## Requirements
 None, except when looking to play above level 4 in which case it depends on Expansion and 5eSpells.
