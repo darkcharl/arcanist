@@ -6,7 +6,7 @@
             <children>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Wisdom);Proficiency(Daggers);Proficiency(Darts);Proficiency(Slings);Proficiency(Quarterstaffs);Proficiency(LightCrossbows)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Wisdom);Proficiency(Daggers);Proficiency(Quarterstaffs);Proficiency(LightCrossbows)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>

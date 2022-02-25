@@ -1,34 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="0" revision="0" build="49"/>
+    <version major="4" minor="0" revision="6" build="408"/>
     <region id="ProgressionDescriptions">
         <node id="root">
             <children>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="FixedString" value=""/>
-                    <attribute id="DisplayName" type="FixedString" value=""/>
+                    <attribute id="Description" type="FixedString" value="ClassDescriptions_Arcanist_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="ClassDescriptions_Arcanist_DisplayName"/>
                     <attribute id="ExactMatch" type="FixedString" value=""/>
-                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="Hidden" type="bool" value="false"/>
                     <attribute id="ParamMatch" type="FixedString" value=""/>
                     <attribute id="PassivePrototype" type="FixedString" value=""/>
                     <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="ProgressionTableId" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
                     <attribute id="SelectorId" type="FixedString" value=""/>
-                    <attribute id="Type" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="Arcanist"/>
                     <attribute id="UUID" type="guid" value="2513e2c9-8fb6-4508-bc71-97f0652805a7"/>
                 </node>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="FixedString" value=""/>
-                    <attribute id="DisplayName" type="FixedString" value=""/>
-                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(ArcaneRecoveryPoint,1,0)"/>
-                    <attribute id="Hidden" type="bool" value="true"/>
-                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="Description" type="FixedString" value="Shared_ProgressionDescriptions_New_Stat_48_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="Shared_ProgressionDescriptions_New_Stat_48_DisplayName"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:SpellSlot;1:1"/>
                     <attribute id="PassivePrototype" type="FixedString" value=""/>
                     <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="ProgressionTableId" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
                     <attribute id="SelectorId" type="FixedString" value=""/>
-                    <attribute id="Type" type="FixedString" value=""/>
-                    <attribute id="UUID" type="guid" value="8f9bb3b5-2ebe-46f9-a595-9ed090934a68"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="929d6933-1694-4090-8d0b-0cff159948c6"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="Shared_ProgressionDescriptions_New_Stat_134_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="Shared_ProgressionDescriptions_New_Stat_134_DisplayName"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:SpellSlot"/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="c86c8954-822a-4336-bb5c-1f064604d31c"/>
                 </node>
             </children>
         </node>
