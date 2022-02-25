@@ -9,6 +9,6 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "ARM_Shoes"
 add equipmentgroup
-add equipment entry "ARM_Robe_Body_Sorcerer"
+add equipment entry "ARM_Robe_Body"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
