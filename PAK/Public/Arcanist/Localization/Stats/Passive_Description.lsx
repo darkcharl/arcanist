@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="0" build="72" />
+	<version major="4" minor="0" revision="8" build="0" />
 	<region id="TranslatedStringKeys">
-		<node id="root">
+		<node id="TranslatedStringKeys">
 			<children>
 				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="3ae55d4c-a794-4bcd-b93c-c0676cd77141" version="7" />
 					<attribute id="UUID" type="FixedString" value="Passive_RitualCasting_Description" />
 					<attribute id="Speaker" type="FixedString" value="" />
 					<attribute id="ExtraData" type="LSString" value="" />
-					<attribute id="Content" type="TranslatedString" handle="3ae55d4c-a794-4bcd-b93c-c0676cd77141" version="7" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
 			</children>

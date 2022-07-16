@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="0" build="58" />
+	<version major="4" minor="0" revision="7" build="401" />
 	<region id="TranslatedStringKeys">
-		<node id="root">
+		<node id="TranslatedStringKeys">
 			<children>
 				<node id="TranslatedStringKey">
-					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="Content" type="TranslatedString" handle="edfd2ae9-d858-4c55-b87b-902d5e0c6da4" version="1" />
 					<attribute id="UUID" type="FixedString" value="ClassDescriptions_Arcanist_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
-					<attribute id="Content" type="TranslatedString" handle="edfd2ae9-d858-4c55-b87b-902d5e0c6da4" version="1" />
 				</node>
 			</children>
 		</node>
