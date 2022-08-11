@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="0" revision="6" build="1"/>
+    <version major="4" minor="0" revision="7" build="406"/>
     <region id="ClassDescriptions">
         <node id="root">
             <children>
@@ -20,7 +20,7 @@
                     <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
-                    <attribute id="SoundMagicType" type="uint8" value="6"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Wizard"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="4"/>
                     <attribute id="UUID" type="guid" value="8aa9232b-299d-47e4-8f8b-6a6c8d2dc8ad"/>
                     <children>
@@ -31,6 +31,36 @@
                             <attribute id="Object" type="guid" value="18266c0b-efbc-4c80-8784-ada4a37218d7"/>
                         </node>
                     </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CanLearnSpells" type="bool" value="true"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="FixedString" value="ClassDescriptions_Exploiter_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="ClassDescriptions_Exploiter_DisplayName"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Exploiter"/>
+                    <attribute id="ParentGuid" type="guid" value="8aa9232b-299d-47e4-8f8b-6a6c8d2dc8ad"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="4"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="0323f198-06d9-43bb-b4cf-402b7ab7bd90"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Wizard"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="UUID" type="guid" value="e61d9d66-a471-4a77-bd88-0ebbddc9205d"/>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CanLearnSpells" type="bool" value="true"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="FixedString" value="ClassDescriptions_PsychicArcanist_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="ClassDescriptions_PsychicArcanist_DisplayName"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="PsychicArcanist"/>
+                    <attribute id="ParentGuid" type="guid" value="8aa9232b-299d-47e4-8f8b-6a6c8d2dc8ad"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="4"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="20e59d37-256b-419e-8878-46b17c3d1ca1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Wizard"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="UUID" type="guid" value="3a8ee9d9-709a-4fc6-9565-b03298a15f6c"/>
                 </node>
             </children>
         </node>

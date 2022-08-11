@@ -4,9 +4,26 @@
     <region id="SpellLists">
         <node id="root">
             <children>
-                <node id="SpellList"> Level 3 Spells
+                <node id="SpellList"> Exploiter Level 0 Exploits
+                    <attribute id="Spells" type="LSString" value="Shout_ArcaneEmpower"/>
+                    <attribute id="UUID" type="guid" value="2506dbad-b99a-45a6-96d9-4406a3619350"/>
+                </node>
+                <node id="SpellList"> Exploiter Level 3 Spells
                     <attribute id="Spells" type="LSString" value="Projectile_Fireball;Projectile_AcidArrow;Target_Blindness;Shout_Blur;Target_Darkness;Target_Darkvision;Shout_DetectThoughts;Shout_FlameBlade;Target_FlamingSphere;Target_HeatMetal;Target_HoldPerson;Target_Invisibility;Shout_MirrorImage;Target_MistyStep;Target_ProtectionFromPoison;Projectile_RayOfEnfeeblement;Projectile_ScorchingRay;Target_Shatter;Target_Web;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Zone_BurningHands;Target_CharmPerson;Zone_ColorSpray;Target_CreateDestroyWater;Shout_DisguiseSelf;Target_Entangle;Shout_ExpeditiousRetreat;Target_FaerieFire;Shout_FalseLife;Shout_FeatherFall;Target_FindFamiliar;Target_FogCloud;Target_Grease;Shout_HellishRebuke;Target_Hex;Target_Jump;Target_Longstrider;Target_MageArmor;Projectile_MagicMissile;Target_ProtectionFromEvilAndGood;Projectile_RayOfSickness;Shout_SpeakWithAnimals;Target_Sleep;Zone_Thunderwave;Projectile_WitchBolt"/>
                     <attribute id="UUID" type="guid" value="62ada699-749b-491e-bfab-47aa15340380"/>
+                </node>
+                
+                <node id="SpellList"> Psychic Arcanist Level 0 Spells
+                    <attribute id="Spells" type="LSString" value="Target_ViciousMockery"/>
+                    <attribute id="UUID" type="guid" value="249f503f-ca8d-4be3-8d07-6bf0d2081282"/>
+                </node>
+                <node id="SpellList"> Psychic Arcanist Level 1 Spells
+                    <attribute id="Spells" type="LSString" value="Target_DissonantWhispers"/>
+                    <attribute id="UUID" type="guid" value="705f6f6e-aab9-45fc-b1db-e239499001a5"/>
+                </node>
+                <node id="SpellList"> Psychic Arcanist Level 2 Spells
+                    <attribute id="Spells" type="LSString" value="Target_PhantasmalForce"/>
+                    <attribute id="UUID" type="guid" value="07158db0-de7d-4b74-b1ce-c7881be7b764"/>
                 </node>
             </children>
         </node>

@@ -5,6 +5,20 @@
 		<node id="TranslatedStringKeys">
 			<children>
 				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="f74f6552-fdd2-41c3-9205-8866c6d22edd" version="5" />
+					<attribute id="UUID" type="FixedString" value="Passive_ArcaneEmpower_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="d18a0b55-dede-47dc-9b24-568b960bc55e" version="7" />
+					<attribute id="UUID" type="FixedString" value="Passive_ArcaneExploits_Description" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
 					<attribute id="Content" type="TranslatedString" handle="3ae55d4c-a794-4bcd-b93c-c0676cd77141" version="7" />
 					<attribute id="UUID" type="FixedString" value="Passive_RitualCasting_Description" />
 					<attribute id="Speaker" type="FixedString" value="" />
