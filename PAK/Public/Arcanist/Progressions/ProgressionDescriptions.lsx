@@ -43,6 +43,32 @@
                     <attribute id="Type" type="FixedString" value="ActionResource"/>
                     <attribute id="UUID" type="guid" value="c86c8954-822a-4336-bb5c-1f064604d31c"/>
                 </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="ClassDescriptions_Exploiter_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="ClassDescriptions_Exploiter_DisplayName"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:SpellSlot"/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="0323f198-06d9-43bb-b4cf-402b7ab7bd90"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="3a1e9aaf-a0e2-42f1-b499-aefe197674a7"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="ClassDescriptions_PsychicArcanist_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="ClassDescriptions_PsychicArcanist_DisplayName"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:SpellSlot"/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="20e59d37-256b-419e-8878-46b17c3d1ca1"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="995c13eb-9320-4ed0-a840-05ec5bedb3d1"/>
+                </node>
             </children>
         </node>
     </region>

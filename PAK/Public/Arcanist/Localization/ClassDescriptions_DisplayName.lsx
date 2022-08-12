@@ -11,6 +11,20 @@
 					<attribute id="ExtraData" type="LSString" value="" />
 					<attribute id="Stub" type="bool" value="True" />
 				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="8662a96a-dddc-479e-8f0f-3eb0a7456a97" version="1" />
+					<attribute id="UUID" type="FixedString" value="ClassDescriptions_Exploiter_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
+				<node id="TranslatedStringKey">
+					<attribute id="Content" type="TranslatedString" handle="e1186fcf-c400-4d31-985a-1c2bc887a76f" version="1" />
+					<attribute id="UUID" type="FixedString" value="ClassDescriptions_PsychicArcanist_DisplayName" />
+					<attribute id="Speaker" type="FixedString" value="" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+				</node>
 			</children>
 		</node>
 	</region>
