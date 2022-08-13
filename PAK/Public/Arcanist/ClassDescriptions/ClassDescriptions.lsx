@@ -12,7 +12,7 @@
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Sorcerer"/>
                     <attribute id="Description" type="FixedString" value="ClassDescriptions_Arcanist_Description"/>
                     <attribute id="DisplayName" type="FixedString" value="ClassDescriptions_Arcanist_DisplayName"/>
-                    <attribute id="HasGod" type="bool" value="false"/>
+                    <attribute id="HasGod" type="bool" value="true"/>
                     <attribute id="HpPerLevel" type="int32" value="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="false"/>
