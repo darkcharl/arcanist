@@ -264,10 +264,10 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SorceryPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Exploiter"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Metamagic_Exploit"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(2506dbad-b99a-45a6-96d9-4406a3619350,1,0,SorcererCantrip,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(c1ffc407-93ff-4f94-b95c-99f108caefad,1,Exploits);AddSpells(2506dbad-b99a-45a6-96d9-4406a3619350,1,0,SorcererCantrip,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="0323f198-06d9-43bb-b4cf-402b7ab7bd90"/>
                     <attribute id="UUID" type="guid" value="fc5d9e87-b921-4461-ba05-997df14b7e2a"/>
                 </node>

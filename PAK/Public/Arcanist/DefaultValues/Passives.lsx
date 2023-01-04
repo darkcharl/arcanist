@@ -5,6 +5,17 @@
         <node id="root">
             <children>
                 <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Exploit_Quickened"/>
+                    <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="OriginUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="SelectorId" type="LSString" value=""/>
+                    <attribute id="SubclassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="TableUUID" type="guid" value="0323f198-06d9-43bb-b4cf-402b7ab7bd90"/>
+                    <attribute id="UUID" type="guid" value="aa75c8b0-9fe4-4f46-94de-520055637cd1"/>
+                </node>
+                <node id="DefaultValue">
                     <attribute id="Add" type="LSString" value="Metamagic_Distant;Metamagic_Twinned"/>
                     <attribute id="ClassUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="Level" type="int32" value="2"/>
