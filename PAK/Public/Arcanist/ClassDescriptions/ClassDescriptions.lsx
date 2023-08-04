@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="0" revision="7" build="406"/>
+    <version major="4" minor="0" revision="9" build="314"/>
     <region id="ClassDescriptions">
         <node id="root">
             <children>
                 <node id="ClassDescription">
-                    <attribute id="AnimationSubSet" type="guid" value="59f81832-db7c-4671-a8da-74b34a818b5b"/>
                     <attribute id="BaseHp" type="int32" value="6"/>
                     <attribute id="CanLearnSpells" type="bool" value="true"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Sorcerer"/>
-                    <attribute id="Description" type="FixedString" value="ClassDescriptions_Arcanist_Description"/>
-                    <attribute id="DisplayName" type="FixedString" value="ClassDescriptions_Arcanist_DisplayName"/>
+                    <attribute id="Description" type="TranslatedString" handle="edfd2ae9-d858-4c55-b87b-902d5e0c6da4" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="d45e0ed0-359f-4637-9668-449b48b3c40f" version="1"/>
                     <attribute id="HasGod" type="bool" value="true"/>
                     <attribute id="HpPerLevel" type="int32" value="4"/>
+                    <attribute id="IsDefaultForUseSpellAction" type="bool" value="true"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Arcanist"/>
-                    <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
                     <attribute id="SoundClassType" type="FixedString" value="Wizard"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="SpellList" type="guid" value="beb9389e-24f8-49b0-86a5-e8d08b6fdc2e"/>
                     <attribute id="UUID" type="guid" value="8aa9232b-299d-47e4-8f8b-6a6c8d2dc8ad"/>
                     <children>
                         <node id="Tags">
@@ -35,8 +36,8 @@
                 <node id="ClassDescription">
                     <attribute id="CanLearnSpells" type="bool" value="true"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="Description" type="FixedString" value="ClassDescriptions_Exploiter_Description"/>
-                    <attribute id="DisplayName" type="FixedString" value="ClassDescriptions_Exploiter_DisplayName"/>
+                    <attribute id="Description" type="TranslatedString" handle="cd86fef5-e679-456f-8902-4d9082f38423" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="8662a96a-dddc-479e-8f0f-3eb0a7456a97" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Exploiter"/>
@@ -50,8 +51,8 @@
                 <node id="ClassDescription">
                     <attribute id="CanLearnSpells" type="bool" value="true"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="Description" type="FixedString" value="ClassDescriptions_PsychicArcanist_Description"/>
-                    <attribute id="DisplayName" type="FixedString" value="ClassDescriptions_PsychicArcanist_DisplayName"/>
+                    <attribute id="Description" type="TranslatedString" handle="dce15e06-c774-43ed-a9c8-13a20688622e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="e1186fcf-c400-4d31-985a-1c2bc887a76f" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="PsychicArcanist"/>

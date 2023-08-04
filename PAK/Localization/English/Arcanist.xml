@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <contentList date="7/18/2021 18:00">
     <content contentuid="d45e0ed0-359f-4637-9668-449b48b3c40f" version="1">Arcanist</content>
     <content contentuid="edfd2ae9-d858-4c55-b87b-902d5e0c6da4" version="1">Arcanists are wizards born with an innate ability to manipulate magic, using their unique insight into the workings of magic to apply both approaches at once.</content>
@@ -8,5 +9,7 @@
     <content contentuid="cd86fef5-e679-456f-8902-4d9082f38423" version="1">Using Sorcery Points Exploiters can invoke the effects of certain spells intuitively by bending the Weave to their will. The process has its cost as it hurts the invoker so care must be taken when using Exploits.</content>
     <content contentuid="8662a96a-dddc-479e-8f0f-3eb0a7456a97" version="1">Exploiter</content>
     <content contentuid="8c09e3af-e75e-4322-ab38-ca9bab7b969d" version="1">Arcane Empower</content>
-    <content contentuid="f74f6552-fdd2-41c3-9205-8866c6d22edd" version="1">Arcane Empower increases the damage of spells with the &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Modifier&lt;/LSTag&gt; of the invoker.&lt;br&gt;&lt;br&gt;The effect lasts [1] turns and does [2] damage to the caster.</content>
+    <content contentuid="f74f6552-fdd2-41c3-9205-8866c6d22edd" version="1">Arcane Empower increases the damage of spell with the &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Modifier&lt;/LSTag&gt; of the invoker.&lt;br&gt;&lt;br&gt;The effect lasts [1] turns and does [2] damage to the caster.</content>
+    <content contentuid="b15e99d6-d7ce-456e-a02e-f20c0727d8c5" version="1">Exploit: Quickened Spell</content>
+    <content contentuid="d18a0b55-dede-47dc-9b24-568b960bc55e" version="1">Exploited spells channel raw Weave through the body of the caster to quicken spells.&lt;br&gt;&lt;br&gt;The process consumes [1] Sorcery Point but hurt the invoker, causing [2] per Spell Level.</content>
 </contentList>
