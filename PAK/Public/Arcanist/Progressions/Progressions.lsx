@@ -12,7 +12,8 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(9f3a9f8d-f645-40b5-b36f-fb079b7b805e,2);SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,4,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,2,1,SorcererSpell);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>                    <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(9f3a9f8d-f645-40b5-b36f-fb079b7b805e,2);SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,4,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,2,1,SorcererSpell);AddSpells(34c3321d-75ab-4b50-a44d-cbac8705a360,,,,AlwaysPrepared);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
                     <attribute id="UUID" type="guid" value="3dd22b4b-bebe-4b63-9786-0b655cc9a790"/>
                     <children>
                         <node id="SubClasses">
@@ -36,7 +37,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(9f3a9f8d-f645-40b5-b36f-fb079b7b805e,2);SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,4,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,2,1,SorcererSpell);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(9f3a9f8d-f645-40b5-b36f-fb079b7b805e,2);SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,4,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(11f331b0-e8b7-473b-9d1f-19e8e4178d7d,2,1,SorcererSpell);AddSpells(34c3321d-75ab-4b50-a44d-cbac8705a360,,,,AlwaysPrepared);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
                     <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
                     <attribute id="UUID" type="guid" value="22f1249b-2b9f-4b5c-8ddb-9cab34db275e"/>
                     <children>
