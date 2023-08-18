@@ -5,11 +5,25 @@
         <node id="root">
             <children>
                 <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Constitution;Intelligence"/>
+                    <attribute id="Add" type="LSString" value="Intelligence;Charisma"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
                     <attribute id="TableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
-                    <attribute id="UUID" type="guid" value="8f2c99be-1d5f-4942-9ffa-455709008437"/>
+                    <attribute id="UUID" type="guid" value="335a6a85-be5f-4a23-9117-0d68e6c438ab"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Intelligence;Charisma"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
+                    <attribute id="TableUUID" type="guid" value="0323f198-06d9-43bb-b4cf-402b7ab7bd90"/>
+                    <attribute id="UUID" type="guid" value="21003a5a-db34-455f-9e95-3adbf431f7fb"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Intelligence;Charisma"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
+                    <attribute id="TableUUID" type="guid" value="20e59d37-256b-419e-8878-46b17c3d1ca1"/>
+                    <attribute id="UUID" type="guid" value="21003a5a-db34-455f-9e95-3adbf431f7fb"/>
                 </node>
             </children>
         </node>

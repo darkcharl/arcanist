@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Exploit_Quickened"/>
+                    <attribute id="Passives" type="LSString" value="Exploit_ArcaneBlast,Exploit_Tripled,Exploit_Quickened"/>
                     <attribute id="UUID" type="guid" value="c1ffc407-93ff-4f94-b95c-99f108caefad"/>
                 </node>
             </children>

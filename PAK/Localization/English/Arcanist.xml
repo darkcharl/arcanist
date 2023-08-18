@@ -6,10 +6,21 @@
     <content contentuid="3ae55d4c-a794-4bcd-b93c-c0676cd77141" version="1">Ritual casting allows the caster to invoke certain spells without expanding a spell slot. Currently only Find Familiar is supported.</content>
     <content contentuid="dce15e06-c774-43ed-a9c8-13a20688622e" version="1">Psychic Arcanists favor spells that target psyche, gaining knowledge of spells that normally are not available to Wizards or Sorcerers.</content>
     <content contentuid="e1186fcf-c400-4d31-985a-1c2bc887a76f" version="1">Psychic Arcanist</content>
-    <content contentuid="cd86fef5-e679-456f-8902-4d9082f38423" version="1">Using Sorcery Points Exploiters can invoke the effects of certain spells intuitively by bending the Weave to their will. The process has its cost as it hurts the invoker so care must be taken when using Exploits.</content>
+    <content contentuid="cd86fef5-e679-456f-8902-4d9082f38423" version="1">Using Sorcery Points Exploiters can invoke the effects of certain spells intuitively by bending the Weave to their will. The process has its cost as it hurts the invoker so care must be taken when using Exploits. Higher Charisma will help dampen the damage.</content>
     <content contentuid="8662a96a-dddc-479e-8f0f-3eb0a7456a97" version="1">Exploiter</content>
     <content contentuid="8c09e3af-e75e-4322-ab38-ca9bab7b969d" version="1">Arcane Empower</content>
     <content contentuid="f74f6552-fdd2-41c3-9205-8866c6d22edd" version="1">Arcane Empower increases the damage of spell with the &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Modifier&lt;/LSTag&gt; of the invoker.&lt;br&gt;&lt;br&gt;The effect lasts [1] turns and does [2] damage to the caster.</content>
     <content contentuid="b15e99d6-d7ce-456e-a02e-f20c0727d8c5" version="1">Exploit: Quickened Spell</content>
     <content contentuid="d18a0b55-dede-47dc-9b24-568b960bc55e" version="1">Exploited spells channel raw Weave through the body of the caster to quicken spells.&lt;br&gt;&lt;br&gt;The process consumes [1] Sorcery Point but hurt the invoker, causing [2] per Spell Level.</content>
+    <content contentuid="f483cb4e-5023-44a7-808e-9873d0e18cbe" version="1">Exploit: Tripled Spell</content>
+    <content contentuid="22df217f-83a3-4eb1-8c7d-ec0cd575906f" version="1">Spells that only target 1 creature can target two additional creatures.&lt;br&gt;&lt;br&gt;Costs 1 Sorcery Point per &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; level used but drains health from the invoker. &lt;LSTag Tooltip="Cantrip"&gt;Cantrips&lt;/LSTag&gt; also cost 1 Sorcery Point.</content>
+    <content contentuid="abf47b5d-81df-4814-b1f5-2345f6252ac3" version="1">For spells that don't shoot a projectile, the targets need to be close enough together.</content>
+    <content contentuid="56a5644d-0a2f-4ed3-b66b-b41456687f0b" version="1">Exploit: Arcane Blast</content>
+    <content contentuid="75358565-3563-46dc-86a3-4f67da617589" version="1">The exploiter transforms its life force into energy, shaping it into a lance. The resulting blast pushes targets away from the caster. The number of lances created depend on the Arcanist's level of experience.</content>
+    <content contentuid="bc9286a2-a855-4486-a865-8014ccfd0bcc" version="1">Psychic Expertise</content>
+    <content contentuid="c31699d2-77ef-4268-a0a6-70d49615c2bc" version="1">Duration of spells that do &lt;LSTag Tooltip="Psychic"&gt; or &lt;LSTag Tooltip="Force"&gt; is doubled.</content>
+    <content contentuid="cf3bb3e7-a6c5-4171-8d70-dca8b6d6ae19" version="1">Psychic Mastery</content>
+    <content contentuid="0e5df7f4-d201-4f69-baae-b345cc537dc7" version="1">Damage of spells that do &lt;LSTag Tooltip="Psychic"&gt; or &lt;LSTag Tooltip="Force"&gt; is increased.</content>
+    <content contentuid="8f86c6aa-02e1-4ec9-92ba-b8da7e737fac" version="1">Psychic Resilience</content>
+    <content contentuid="ab7a55fc-b0bd-488a-8cde-b5bb714406f0" version="1">An innate resistance againts &lt;LSTag Tooltip="Psychic"&gt; and &lt;LSTag Tooltip="Force"&gt; damage that manifests early for Psychic Arcanists.</content>
 </contentList>
