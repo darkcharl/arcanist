@@ -16,7 +16,7 @@
                     <attribute id="IsDefaultForUseSpellAction" type="bool" value="true"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
-                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Arcanist"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="d8787f19-5c06-4b6e-8123-f86cb82da7e9"/>
@@ -39,7 +39,7 @@
                     <attribute id="Description" type="TranslatedString" handle="cd86fef5-e679-456f-8902-4d9082f38423" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="8662a96a-dddc-479e-8f0f-3eb0a7456a97" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Exploiter"/>
                     <attribute id="ParentGuid" type="guid" value="8aa9232b-299d-47e4-8f8b-6a6c8d2dc8ad"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
@@ -54,7 +54,7 @@
                     <attribute id="Description" type="TranslatedString" handle="dce15e06-c774-43ed-a9c8-13a20688622e" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="e1186fcf-c400-4d31-985a-1c2bc887a76f" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="PsychicArcanist"/>
                     <attribute id="ParentGuid" type="guid" value="8aa9232b-299d-47e4-8f8b-6a6c8d2dc8ad"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
