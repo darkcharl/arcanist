@@ -543,7 +543,7 @@
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="PsychicArcanist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Psychic_Resilience"/>
+                    <attribute id="PassivesAdded" type="LSString" value="PsychicFortress"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
@@ -591,7 +591,7 @@
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="PsychicArcanist"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="PsychicCasting"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
@@ -639,7 +639,7 @@
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="PsychicArcanist"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Psychic_Mastery"/>
+                    <attribute id="PassivesAdded" type="LSString" value="PsychicProwess"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>

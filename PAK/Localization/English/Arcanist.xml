@@ -17,10 +17,10 @@
     <content contentuid="abf47b5d-81df-4814-b1f5-2345f6252ac3" version="1">For spells that don't shoot a projectile, the targets need to be close enough together.</content>
     <content contentuid="56a5644d-0a2f-4ed3-b66b-b41456687f0b" version="1">Exploit: Arcane Blast</content>
     <content contentuid="75358565-3563-46dc-86a3-4f67da617589" version="1">The exploiter transforms its life force into energy, shaping it into a lance. The resulting blast pushes targets away from the caster. The number of lances created depend on the Arcanist's level of experience.</content>
-    <content contentuid="bc9286a2-a855-4486-a865-8014ccfd0bcc" version="1">Psychic Expertise</content>
-    <content contentuid="c31699d2-77ef-4268-a0a6-70d49615c2bc" version="1">Duration of spells that do &lt;LSTag Tooltip="Psychic"&gt; or &lt;LSTag Tooltip="Force"&gt; is doubled.</content>
-    <content contentuid="cf3bb3e7-a6c5-4171-8d70-dca8b6d6ae19" version="1">Psychic Mastery</content>
-    <content contentuid="0e5df7f4-d201-4f69-baae-b345cc537dc7" version="1">Damage of spells that do &lt;LSTag Tooltip="Psychic"&gt; or &lt;LSTag Tooltip="Force"&gt; is increased.</content>
-    <content contentuid="8f86c6aa-02e1-4ec9-92ba-b8da7e737fac" version="1">Psychic Resilience</content>
-    <content contentuid="ab7a55fc-b0bd-488a-8cde-b5bb714406f0" version="1">An innate resistance againts &lt;LSTag Tooltip="Psychic"&gt; and &lt;LSTag Tooltip="Force"&gt; damage that manifests early for Psychic Arcanists.</content>
+    <content contentuid="bc9286a2-a855-4486-a865-8014ccfd0bcc" version="1">Psychic Casting</content>
+    <content contentuid="c31699d2-77ef-4268-a0a6-70d49615c2bc" version="1">The Psychic Arcanist is able to cast spells without the use of verbal or somatic components.</content>
+    <content contentuid="cf3bb3e7-a6c5-4171-8d70-dca8b6d6ae19" version="1">Psychic Prowess</content>
+    <content contentuid="0e5df7f4-d201-4f69-baae-b345cc537dc7" version="1">The damage of spells invoked by the Psychic Arcanist is increased if the damage type is Psychic or Force.</content>
+    <content contentuid="8f86c6aa-02e1-4ec9-92ba-b8da7e737fac" version="1">Psychic Fortress</content>
+    <content contentuid="ab7a55fc-b0bd-488a-8cde-b5bb714406f0" version="1">Psychic Arcanists develop an innate resistance againts Psychic and Force damage.</content>
 </contentList>
