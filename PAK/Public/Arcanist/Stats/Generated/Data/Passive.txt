@@ -13,10 +13,7 @@ type "PassiveData"
 data "DisplayName" "56a5644d-0a2f-4ed3-b66b-b41456687f0b;1"
 data "Description" "75358565-3563-46dc-86a3-4f67da617589;1"
 data "Icon" "Spell_Evocation_EldritchBlast"
-data "Properties" "ToggledDefaultAddToHotbar"
-data "EnabledConditions" "HasActionResource('SorceryPoint', 1, 0, false, false, context.Source)"
-data "EnabledContext" "OnCastResolved;OnLongRest;OnActionResourcesChanged"
-data "Boosts" "Unlockspell(Projectile_ArcaneBlast)
+data "Boosts" "UnlockSpell(Projectile_ArcaneBlast)
 
 new entry "Exploit_Tripled"
 type "PassiveData"
