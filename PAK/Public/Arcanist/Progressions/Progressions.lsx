@@ -54,7 +54,7 @@
                     </children>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SorceryPoint,1,0);Tag(SORCERER_METAMAGIC)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
@@ -102,7 +102,7 @@
                     <attribute id="UUID" type="guid" value="ab1c9838-789a-4e98-af2e-72eddafaa40c"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3);ActionResource(SorceryPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
@@ -150,7 +150,7 @@
                     <attribute id="UUID" type="guid" value="f3a42c70-dda7-4a11-93d1-f0dbd9136213"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SorceryPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
@@ -198,7 +198,7 @@
                     <attribute id="UUID" type="guid" value="2e97ca6f-7d1f-4b34-bada-bde79d092566"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ActionResource(SorceryPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="14"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
@@ -246,7 +246,7 @@
                     <attribute id="UUID" type="guid" value="eded3f3b-5a45-4ddd-b914-a275649acfa9"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SorceryPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="18"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
@@ -270,7 +270,7 @@
                     <attribute id="UUID" type="guid" value="665c0409-2d61-4fe5-a1f1-91c4373422ee"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ActionResource(SorceryPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="20"/>
                     <attribute id="Name" type="LSString" value="Arcanist"/>
