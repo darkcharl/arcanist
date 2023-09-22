@@ -1,6 +1,21 @@
 local __util = require 'larian.util'
 
+function NonSpellMetamagicAbilities()
+	return SpellId ('Target_HorrificVisage')
+end
+
+function MetamagicExclusionSpells()
+    return SpellId('Target_MistyStep') | SpellId('Target_WildMagic_Teleport') | SpellId('Target_SpeakWithDead') | SpellId('Target_SpeakWithDead_FreeRecast') | SpellId('Target_SpeakWithDead_Amulet_CHA') | SpellId('Target_Light')
+end
+
 function PsychicSpellCheck()
     return (HasSpellFlag(SpellFlags.Verbal) | HasSpellFlag(SpellFlags.Somatic)) & HasSpellFlag(SpellFlags.Spell)
 end
 
+function TripledProjectileSpellCheck()
+    return ~NumberOfTargetsGreaterThan(1) & ~AreaRadiusGreaterThan(0) & (HasSpellFlag(SpellFlags.Spell) | NonSpellMetamagicAbilities()) & SpellTypeIs(SpellType.Projectile) & ~MetamagicExclusionSpells()
+end
+
+function TripledTargetSpellCheck()
+    return ~NumberOfTargetsGreaterThan(1) & TargetRadiusGreaterThan(1.5) & ~AreaRadiusGreaterThan(0) & (HasSpellFlag(SpellFlags.Spell) | NonSpellMetamagicAbilities()) & SpellTypeIs(SpellType.Target) & ~HasFunctor(StatsFunctorType.Summon) & ~MetamagicExclusionSpells()
+end
